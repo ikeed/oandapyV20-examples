@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# mypy
+.mypy_cache/
+/vcs.xml
+/modules.xml
