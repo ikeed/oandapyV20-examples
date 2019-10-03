@@ -1,7 +1,7 @@
+urwidtrees
+urwid
 requests>=2.20.0
 oandapyV20>=0.2.2
 gevent
-urwid
-urwidtrees
 pyyaml
 six
